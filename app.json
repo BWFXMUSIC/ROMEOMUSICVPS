@@ -1,7 +1,7 @@
 {
     "name": "RomeoBot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
+    "logo": "https://graph.org/file/0337f786946d2e9d9c8b1.jpg",
     "keywords": [
     "python3",
     "telegram",
