@@ -59,16 +59,24 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☹︎ 𝐌𝐞𝐧𝐮 ☹︎",
-                callback_data=f"PanelMarkup {videoid}|{chat_id}",
+                text="➕ ✨ ᴩʟᴀʏʟɪsᴛ ✨ ➕",
+                callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="📝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url=f"{config.SUPPORT_GROUP}"
-            )
+                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🥀", url=config.SUPPORT_GROUP
+            ),
+        ],
+        [
+           InlineKeyboardButton(
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
+            ),
+           InlineKeyboardButton(
+                text="💖ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+            ),
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], callback_data="close"
+                text="✯ ✯", callback_data="close"
             )
         ],
     ]
