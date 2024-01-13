@@ -68,7 +68,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💮︎ ᴄᴘᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL,
+                text="💮︎ ᴄᴘᴀɴɴᴇʟ", url=f"{SUPPORT_CHANNEL}",
             ),
            InlineKeyboardButton(
                 text="⛩️ Gʀᴏᴜᴘꨄ︎ ⛩️", url=config.SUPPORT_GROUP,
