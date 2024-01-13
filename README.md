@@ -8,7 +8,7 @@ h### 🥀 𝐁𝐞𝐬𝐭 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐬𝐫
 - Fork the repo then 
 - Tap below botton ☟︎︎︎☟︎︎︎☟︎︎︎ for deploy Romeo-musicBot 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/BWFTIME/ROMEOMUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/BWFXMUSIC/ROMEOMUSICVPS)
 
 
 
