@@ -1,5 +1,5 @@
 {
-    "name": "RomeoBot",
+    "name": "💌 ʙω͠ғ ᴍᴜsɪᴄ v3💌",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/0337f786946d2e9d9c8b1.jpg",
     "keywords": [
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23392712",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "7cb236b197b25c243fa83e7e0173d0e6",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,27 +30,27 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://BWFMUSIC:BWFMUSIC@cluster0.xwnup2l.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "Romeo-musicBot",
+        "value": "💌 ʙω͠ғ ᴍᴜsɪᴄ v3💌",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
         "description": "Spotify Client Id",
-        "value": "",
+        "value": "bcfe26b0ebc3428882a0b5fb3e872473",
         "required": false
       },
       "SPOTIFY_CLIENT_SECRET": {
         "description": "Spotify client secret",
-        "value": "",
+        "value": "907c6a054c214005aeae1fd752273cc4",
         "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5890162695",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,17 +70,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights in Log group.",
-        "value": "",
+        "value": "-1001822336951",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/RomeoBot_OP",
+        "value": "https://t.me/BWF_MUSIC1",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/Romeo_OP",
+        "value": "https://t.me/BWF_MUSIC1",
         "required": false
       }
     },
